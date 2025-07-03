@@ -23,12 +23,10 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=aws,sqlite,git" style="max-width: calc(100% - 210px);" />
-      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions" " />
+      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions" />
     </a>
-    <img width="200px" align="right" src="/assets/mrk-top-secret-v2.png">
   </p>
 </div>
-
 
 📫 Você pode falar comigo pelo Linkedin
 <h3 align="left">Connect with me:</h3>
