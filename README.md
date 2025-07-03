@@ -9,7 +9,7 @@
 
 👊 Gosto de colocar a mão na massa: tenho familiaridade com bancos de dados, linguagens de programação e estou sempre buscando aprender mais — inclusive, já me aventurei no mundo da automação de testes também!
 
-<div align="center">
+<div align="center" style="background-color: yellow;">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
