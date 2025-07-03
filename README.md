@@ -12,7 +12,8 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 
 📖 Formado em Sistemas de Informação na [Estácio](https://estacio.br/).
 
-⏳Certified Tester Foundation Level - CTFL 
+⏳Certified Tester Foundation Level - CTFL
+
 ✔️ Curso Tecnico em Informatica e programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
 
 📚 Estudando frameworks de automação de testes como Selenium, Cypress, Python
