@@ -34,3 +34,10 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 <a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
 </p>
 
+******
+
+<div align="center">
+  <a href="https://github.com/moniquerp">
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moniquerp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moniquerp&layout=compact&langs_count=8&theme=algolia"/>
+</div>
