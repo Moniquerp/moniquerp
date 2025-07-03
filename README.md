@@ -23,7 +23,7 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=aws,sqlite,git" style="max-width: calc(100% - 210px);" />
-      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions" />
+      <img src="https://simpleskill.icons.workers.dev/svg?i=github" />
     </a>
   </p>
 </div>
@@ -31,4 +31,6 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 📫 Você pode falar comigo pelo Linkedin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"></p>
+<a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
+</p>
+
