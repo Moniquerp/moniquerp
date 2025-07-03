@@ -1,10 +1,10 @@
-<h1> MP.HelloWorld() </h1>
+<h1> MP.HelloWorld()🌎 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
-### Monique 😄👋
-Tenho 26 anos, moro em Vitoria /ES 
-Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi bastante experiência com controle de qualidade, testes automatizados, desenvolvimento orientado a testes e análise de requisitos.
+### Monique Pulch😄
+👋 Tenho 26 anos, moro em Vitoria /ES 
+🤖 Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi bastante experiência com controle de qualidade, testes automatizados, desenvolvimento orientado a testes e análise de requisitos.
 👊 Gosto de colocar a mão na massa: tenho familiaridade com bancos de dados, linguagens de programação e estou sempre buscando aprender mais — inclusive, já me aventurei no mundo da automação de testes também!
 
 
@@ -12,9 +12,9 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 
 📖 Formado em Sistemas de Informação na [Estácio](https://estacio.br/).
 
-⏳Certified Tester Foundation Level - CTFL
+✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
 
-✔️ Curso Tecnico em Informatica e programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
+⏳Certified Tester Foundation Level - CTFL
 
 📚 Estudando frameworks de automação de testes como Selenium, Cypress, Python
 
