@@ -10,7 +10,7 @@
 👊 Gosto de colocar a mão na massa: tenho familiaridade com bancos de dados, linguagens de programação e estou sempre buscando aprender mais — inclusive, já me aventurei no mundo da automação de testes também!
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 📖 Formado em Sistemas de Informação na [Estácio](https://estacio.br/).
 
