@@ -4,7 +4,9 @@
 
 ### Monique Pulch😄
 👋 Tenho 26 anos, moro em Vitoria /ES 
+
 🤖 Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi bastante experiência com controle de qualidade, testes automatizados, desenvolvimento orientado a testes e análise de requisitos.
+
 👊 Gosto de colocar a mão na massa: tenho familiaridade com bancos de dados, linguagens de programação e estou sempre buscando aprender mais — inclusive, já me aventurei no mundo da automação de testes também!
 
 
