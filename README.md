@@ -31,4 +31,4 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 📫 Você pode falar comigo pelo Linkedin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank">
+<a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"></p>
