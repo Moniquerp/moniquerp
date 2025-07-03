@@ -22,8 +22,7 @@ Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi
 <div style="max-width: 100%;">
   <p align="left">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=aws,sqlite,git" style="max-width: calc(100% - 210px);" />
-      <img src="https://simpleskill.icons.workers.dev/svg?i=github" />
+      <img src="https://skillicons.dev/icons?i=aws,sqlite,git,github" />
     </a>
   </p>
 </div>
