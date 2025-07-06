@@ -14,12 +14,12 @@
 </h4>
 
 <!-- Gifgato-->
-
+******
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
-
+******
 <h4><li>📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
 
 <h4><li>✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).</li>
