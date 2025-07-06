@@ -41,7 +41,7 @@
   </p>
 </div>
 
-📫 Você pode falar comigo pelo Linkedin.
+📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 🤗
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
