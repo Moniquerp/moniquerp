@@ -6,11 +6,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
 <!-- Descrição-->
-### Monique 
-<li>👋 Tenho 26 anos, moro em Vitoria /ES </li>
+### Hi, I'm Monique 👋
+<li> Tenho 26 anos, moro em Vitoria /ES </li>
 <li>🤖 3 anos de experiencia como analista de sistemas</li> 
 <li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li> 
-<li>⚡Hobbys: Gosto de jogar e pintar🎨<li>
+<li>⚡Hobbys: Gosto de jogar e pintar🎨</li>
 
 <p>
 <div align="center">
@@ -19,12 +19,14 @@
 </p>
 
 <p>
-📖 Formado em Sistemas de Informação na [Estácio](https://estacio.br/).
+📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).
 
 ✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
 
 ⏳Certified Tester Foundation Level - CTFL
 
+
+******
 </p>
  <!-- Languages -->
 ### 🖥️ Tecnologias e Ferramentas:
@@ -45,11 +47,11 @@
 
 ******
 
-<!-- Nav Animado -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=614468&section=footer&reversal=false&textBg=false&fontAlign=50&fontColor=341539" />
-
 <div align="center">
   <a href="https://github.com/moniquerp">
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moniquerp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moniquerp&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+
+<!-- Nav Animado -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=614468&section=footer&reversal=false&textBg=false&fontAlign=50&fontColor=341539" />
