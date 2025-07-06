@@ -30,7 +30,7 @@
 
  <!-- Languages -->
 
-
+******
 <h3> 🖥️ Tecnologias e Ferramentas:</h3>
 
 <div style="max-width: 100%;">
