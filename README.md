@@ -8,24 +8,24 @@
 
 <!-- Descrição-->
 ### Hi, I'm Monique 👋
-<h3><li> Tenho 26 anos, moro em Vitoria /ES </li>
+<h1><li> Tenho 26 anos, moro em Vitoria /ES </li>
 <li>🤖 3 anos de experiencia como analista de sistemas</li> 
 <li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li> 
 <li>⚡Hobbys: Gosto de jogar e pintar🎨</li>
-</h3>
+</h1>
 
-
+<!-- Gifgato-->
 ******
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 ******
-<p>
-📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).
 
-✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
+<h1><li>📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</h1></li>
 
-⏳Certified Tester Foundation Level - CTFL
+<h1><li>✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).</h1></li>
+
+<h1><li>⏳Certified Tester Foundation Level - CTFL</h1></li>
 
 
 ******
