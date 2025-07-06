@@ -1,7 +1,7 @@
 <h1> MP.HelloWorld()🌎 </h1>
 
 <!-- Nav Animado -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F4BBBB&text=Monique%20Pulcheri&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=E3A6AE" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=614468&text=Monique%20Pulcheri&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=341539" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
