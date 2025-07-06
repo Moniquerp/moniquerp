@@ -19,7 +19,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
-<h3> 🚀Cursos e Certificações:</h3>
+<h3>🚀 Cursos e Certificações:</h3>
 
 <li>⚙️ Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
 
@@ -30,7 +30,6 @@
 
  <!-- Languages -->
 
- ******
 
 <h3> 🖥️ Tecnologias e Ferramentas:</h3>
 
