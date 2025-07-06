@@ -1,4 +1,3 @@
-<h1> MP.HelloWorld()🌎 </h1>
 
 <!-- Nav Animado -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=614468&text=Monique%20Pulcheri&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=341539" />
@@ -8,10 +7,10 @@
 
 <!-- Descrição-->
 ## Hi, I'm Monique 👋
-<<li>🤖 3 anos de experiencia como analista de sistemas</li> 
+<li>👀 3+ de experiencia como Quality Assurance Analyst</li> 
 <li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li>
- <li>🎈Ingles Intermediario</li>
-<li>⚡Hobbys: Gosto de jogar e pintar🎨</li>
+ <li>💬Ingles Intermediario</li>
+<li>⚡Hobbys: Gosto pintar e ouvir musica</li>
 
 
 <!-- Gifgato-->
@@ -21,7 +20,10 @@
 </div>
 
 ******
-<li>📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
+
+<h3>🚀Cursos e Certificações:</h3>
+
+<li>⚙️ Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
 
 <li>✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).</li>
 
@@ -43,7 +45,7 @@
   </p>
 </div>
 
-📫 Você pode falar comigo pelo Linkedin
+📫 Você pode falar comigo pelo Linkedin.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/monique-rodrigues-pulcheri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
