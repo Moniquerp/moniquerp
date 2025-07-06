@@ -8,10 +8,11 @@
 
 <!-- Descrição-->
 ## Hi, I'm Monique 👋
-<h4><li>🤖 3 anos de experiencia como analista de sistemas</li> 
-<li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li> 
+<<li>🤖 3 anos de experiencia como analista de sistemas</li> 
+<li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li>
+ <li>🎈Ingles Intermediario</li>
 <li>⚡Hobbys: Gosto de jogar e pintar🎨</li>
-</h4>
+
 
 <!-- Gifgato-->
 ******
@@ -20,15 +21,18 @@
 </div>
 
 ******
-<h4><li>📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
+<li>📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).</li>
 
-<h4><li>✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).</li>
+<li>✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).</li>
 
-<h4><li>⏳Certified Tester Foundation Level - CTFL</li>
-</h4>
+<li>⏳Certified Tester Foundation Level - CTFL</li>
+
 
 
  <!-- Languages -->
+
+ ******
+
 <h3> 🖥️ Tecnologias e Ferramentas:</h3>
 
 <div style="max-width: 100%;">
