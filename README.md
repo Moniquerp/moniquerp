@@ -6,25 +6,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
 <!-- Descrição-->
-### Monique Pulch😄
-👋 Tenho 26 anos, moro em Vitoria /ES 
+### Monique 
+<il>👋 Tenho 26 anos, moro em Vitoria /ES </il>
+<il>🤖 3 anos de experiencia como analista de sistemas</il> 
+<il>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</il> 
+<il>⚡Hobbys: Gosto de jogar e pintar🎨<il>
 
-🤖 Trabalho há mais de 3 anos como analista de sistemas e, nesse tempo, desenvolvi bastante experiência com controle de qualidade, testes automatizados, desenvolvimento orientado a testes e análise de requisitos.
-
-👊 Gosto de colocar a mão na massa: tenho familiaridade com bancos de dados, linguagens de programação e estou sempre buscando aprender mais — inclusive, já me aventurei no mundo da automação de testes também!
-
+<p>
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
+</p>
 
+<p>
 📖 Formado em Sistemas de Informação na [Estácio](https://estacio.br/).
 
 ✔️ Curso Tecnico Informatica e Programação no [Vasco Coutinho](https://vascocoutinho.ceet.secti.es.gov.br/).
 
 ⏳Certified Tester Foundation Level - CTFL
 
-📚 Estudando frameworks de automação de testes como Selenium, Cypress, Python
-
+</p>
  <!-- Languages -->
 ### 🖥️ Tecnologias e Ferramentas:
 
@@ -49,3 +50,6 @@
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moniquerp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moniquerp&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+
+<!-- Nav Animado -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=614468&section=footer&reversal=false&textBg=false&fontAlign=50&fontColor=341539" />
