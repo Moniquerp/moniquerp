@@ -5,19 +5,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
+
 <!-- Descrição-->
 ### Hi, I'm Monique 👋
-<li> Tenho 26 anos, moro em Vitoria /ES </li>
+<h3><li> Tenho 26 anos, moro em Vitoria /ES </li>
 <li>🤖 3 anos de experiencia como analista de sistemas</li> 
 <li>🌱 Estudando frameworks de automação de testes como Selenium, Cypress, Python</li> 
 <li>⚡Hobbys: Gosto de jogar e pintar🎨</li>
+</h3>
 
-<p>
+
+******
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
-</p>
-
+******
 <p>
 📖 Formada em Sistemas de Informação na [Estácio](https://estacio.br/).
 
@@ -27,9 +29,9 @@
 
 
 ******
-</p>
  <!-- Languages -->
-### 🖥️ Tecnologias e Ferramentas:
+</p>
+<h4> 🖥️ Tecnologias e Ferramentas:</h4>
 
 <div style="max-width: 100%;">
   <p align="left">
