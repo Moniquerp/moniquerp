@@ -1,7 +1,11 @@
 <h1> MP.HelloWorld()🌎 </h1>
 
+<!-- Nav Animado -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F4BBBB&text=Monique%20Pulcheri&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=E3A6AE" />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moniquerp&label=Profile%20views&color=741b47&style=flat" alt="moniquerp" /> </p>
 
+<!-- Descrição-->
 ### Monique Pulch😄
 👋 Tenho 26 anos, moro em Vitoria /ES 
 
@@ -21,6 +25,7 @@
 
 📚 Estudando frameworks de automação de testes como Selenium, Cypress, Python
 
+ <!-- Languages -->
 ### 🖥️ Tecnologias e Ferramentas:
 
 <div style="max-width: 100%;">
